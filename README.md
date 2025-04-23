@@ -14,7 +14,7 @@
 <h2 align="center">About Project</h2>
 
 <p align="center">
-  This project is an extension of the <a href="https://github.com/itsvaibhavmishra/SLDP-MODEL">SLDP_Model</a> project aiming to develop a web-based application to
+  This project is an extension of the <a href="">SLDP_Model</a> project aiming to develop a web-based application to
   detect sign languages in real-time using <img align="center" src="https://img.shields.io/badge/tensorflowjs-3.18.0-orange?style=flat-square&logo=html5&logoColor=white"/> in order to enable speech-impaired people to communicate effectively.
 </p>
 

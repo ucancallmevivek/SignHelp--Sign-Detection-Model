@@ -261,20 +261,7 @@ function App() {
                         Avnish Soni
                       </h2>
                       <p class="leading-relaxed mb-8">
-                        Dedicated to learning new things, this was my final year
-                        project for B.Tech Computer Science course. Attentive to
-                        new ideas and technologies, I have been involved in
-                        multiple projects and this web app is one of them. Make
-                        sure to checkout my{' '}
-                        <a
-                          href="https://github.com/avnish-1298"
-                          className="text-blue-500 transition-all duration-300 font-semibold hover:text-lg"
-                          target={'_blank'}
-                          rel="noreferrer"
-                        >
-                          GitHub
-                        </a>{' '}
-                        for more of my projects.
+                      Contributed to the visual direction of the project by designing presentation materials and aligning the overall look and feel through engaging PDFs and slides. While hands-on design implementation is a work in progress, his creative input and design mindset helped shape the team's understanding of user experience and communication.
                       </p>
                       <div class="flex items-center justify-center flex-wrap pb-4 mb-4 border-b-2 border-gray-100 mt-auto w-full">
                         <a

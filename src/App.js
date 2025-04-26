@@ -142,7 +142,7 @@ function App() {
                         Sign-Help 
                       </h2>
                       <p class="leading-relaxed">
-                        Sigh-Help is a web application that uses TensorFlow.js to detect
+                        Sign-Help is a web application that uses TensorFlow.js to detect
                         hand signs in real-time using a webcam. It is designed to assist
                         individuals with hearing/Speech impairments by providing a visual
                         representation of hand signs. The application uses a pre-trained
@@ -177,8 +177,7 @@ function App() {
                         Vivek Verma
                       </h2>
                       <p class="leading-relaxed mb-8">
-                        Dedicated to learning new things, this was my final year
-                        project for B.Tech Computer Science course. Attentive to
+                        Dedicated to learning new things, Attentive to
                         new ideas and technologies, I have been involved in
                         multiple projects and this web app is one of them. Make
                         sure to checkout my{' '}
